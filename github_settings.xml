@@ -1,0 +1,8 @@
+<application>
+  <component name="GithubSettings">
+    <option name="LOGIN" value="krzysztof.rosolowski@wp.pl" />
+    <option name="HOST" value="https://github.com/Elcaldo/dst2.git" />
+    <option name="AUTH_TYPE" value="BASIC" />
+    <option name="PRIVATE_GIST" value="false" />
+  </component>
+</application>
